@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Aapla Mandal</string>
+
+    <!-- Home Screen -->
+    <string name="today_summary">Today\'s Summary</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="new_sale">New Sale</string>
+    <string name="new_expense">New Expense</string>
+    <string name="export_data">Export Data</string>
+    <string name="settings">Settings</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="total_transactions">%d total</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="get_started">Tap \'New Sale\' to get started</string>
+
+    <!-- Transaction Entry Screen - ADD THESE -->
+    <string name="new_transaction">New Transaction</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="address">Address (Optional)</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="cancel">Cancel</string>
+    <string name="payment_gpay">Google Pay</string>
+    <string name="payment_cash">Cash</string>
+    <string name="payment_upi">UPI</string>
+    <string name="payment_card">Card</string>
+    <string name="customer_name_required">Customer name is required</string>
+    <string name="contact_required">Contact number is required</string>
+    <string name="amount_required">Amount is required</string>
+    <string name="invalid_contact">Invalid contact number</string>
+    <string name="invalid_amount">Invalid amount</string>
+    <string name="transaction_saved">Transaction saved successfully</string>
+
+    <!-- Expense Entry Screen - ADD THESE -->
+    <string name="add_expense">Add Expense</string>
+    <string name="product_name">Product / Item</string>
+    <string name="price">Price (₹)</string>
+    <string name="authorized_person">Authorized Person</string>
+    <string name="category">Category</string>
+    <string name="notes">Notes (Optional)</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="product_required">Product name is required</string>
+    <string name="price_required">Price is required</string>
+    <string name="person_required">Authorized person is required</string>
+    <string name="invalid_price">Invalid price</string>
+    <string name="expense_saved">Expense saved successfully</string>
+
+    <!-- Categories -->
+    <string name="category_supplies">Supplies</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_salary">Salary</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_maintenance">Maintenance</string>
+    <string name="category_other">Other</string>
+
+    <string name="recent_activity">Recent Activity</string>
+    <string name="no_activity">No activity yet</string>
+    <string name="add_to_start">Add transactions or expenses to get started</string>
+
+    <!-- Export Screen -->
+    <string name="export_complete_backup">Complete Backup</string>
+    <string name="export_complete_backup_desc">JSON + CSV files + Database backup (Recommended)</string>
+    <string name="export_json">JSON Export</string>
+    <string name="export_json_desc">All data in JSON format (Best for merging devices)</string>
+    <string name="export_transactions_csv">Transactions CSV</string>
+    <string name="export_transactions_csv_desc">Income/Sales records (Open in Excel)</string>
+    <string name="export_expenses_csv">Expenses CSV</string>
+    <string name="export_expenses_csv_desc">Expenditure records (Open in Excel)</string>
+    <string name="export_database">Database Backup</string>
+    <string name="export_database_desc">Complete SQLite database file</string>
+    <string name="export_success">Export Successful!</string>
+    <string name="export_failed">Export Failed</string>
+    <string name="export_location">Export Location</string>
+    <string name="data_summary">Data Summary</string>
+    <string name="share">Share</string>
+    <string name="done">Done</string>
+</resources>

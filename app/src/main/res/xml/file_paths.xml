@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- External storage files -->
+<external-files-path
+    name="external_files"
+    path="." />
+
+<!-- Downloads folder -->
+<external-files-path
+    name="downloads"
+    path="Download/" />
+
+<!-- Cache directory -->
+<cache-path
+    name="cache"
+    path="." />
+
+<!-- Internal files -->
+<files-path
+    name="files"
+    path="." />
+
+<!-- External storage paths -->
+<external-path
+    name="external_files"
+    path="." />
+
+<!-- Documents directory -->
+<external-path
+    name="documents"
+    path="Documents/AaplaMandal/Exports/" />
+
+<!-- Cache directory for temporary files -->
+<cache-path
+    name="cache"
+    path="." />
+</paths>
