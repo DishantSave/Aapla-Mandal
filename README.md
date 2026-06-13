@@ -1,4 +1,4 @@
-# Aapla Mandal (आपला मंडळ) 🌺
+# Aapla Mandal (आपल मंडळ) 🌺
 
 A highly efficient, cost-effective, and fully autonomous mobile application designed specifically for **Ganesh Festival Mandals** to manage incoming donations, track expenses, and issue real-time physical receipts.
 
